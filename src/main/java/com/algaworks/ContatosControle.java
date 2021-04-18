@@ -19,11 +19,11 @@ public class ContatosControle {
 	//private static final Contato[ LISTA_CONTATOS2 = new Contato[10]; // tipo array necessita informar a capacidade
 	
 	static {
-		LISTA_CONTATOS.add(new Contato ("1", "Vander", "+55 67 99122 0489"));
-		LISTA_CONTATOS.add(new Contato ("2", "Paulo", "+55 67 99122 0000"));
-		LISTA_CONTATOS.add(new Contato ("3", "Giovana", "+55 67 99122 0001"));
-		LISTA_CONTATOS.add(new Contato ("4", "Isaac", "+55 67 99122 0002"));
-		LISTA_CONTATOS.add(new Contato ("5", "Isadora", "+55 67 99122 0003"));
+		LISTA_CONTATOS.add(new Contato ("1", "João", "+55 67 99111 0001"));
+		LISTA_CONTATOS.add(new Contato ("2", "Paulo", "+55 67 99111 0002"));
+		LISTA_CONTATOS.add(new Contato ("3", "Maria", "+55 67 99111 0003"));
+		LISTA_CONTATOS.add(new Contato ("4", "José", "+55 67 99111 0004"));
+		LISTA_CONTATOS.add(new Contato ("5", "Newton", "+55 67 99111 0005"));
 
 
 	}
