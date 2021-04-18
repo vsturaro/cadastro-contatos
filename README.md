@@ -19,9 +19,11 @@ Implementanto uma aplicação básica para cadastro e gerenciamento de contatos 
  - CSS
  - Thymeleaf
  - Java 11
- - List
  
 Versão 1.0
+
+Deploy
+https://vs-contatos.herokuapp.com/ 
 
 
 
